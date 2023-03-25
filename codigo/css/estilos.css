@@ -1,0 +1,44 @@
+p1 {
+    color:red;
+}
+
+h1 {
+    color: yellow;
+    font-size: 5em;
+    background-color:rgb(212, 76, 165);    
+}
+
+em { border-width: 4px;
+    border-style: solid;
+    border-style: black;
+}
+
+p2 { 
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(97, 179, 97);
+}
+
+p3 {
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(120, 93, 219) #48849c;
+}
+
+p4 {
+    border-width: 4px;
+    border-style: solid;
+    border-color: red rgb(100, 40, 200, .6) pink;
+}
+
+p5 {
+    border-width: 4px;
+    border-style: solid;
+    border-color: red yellow green hsla(60, 90%, 50%, .8);
+}
+
+p6 {
+    border-width: 4px;
+    border-style: solid;
+    border-color: red yellow green transparent;
+}
