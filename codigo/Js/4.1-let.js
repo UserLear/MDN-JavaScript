@@ -47,7 +47,7 @@ console.log(this.y); // undefined
 //.......zona muerta declarar dos veces dentro de un mismo ambito con el mismo nombre daria un error
 if (x) {
     let foo;
-    let foo; // Terminamos con un SyntaxError.
+    //let foo; // Terminamos con un SyntaxError.
   }
   if (x) {
     let foo;
